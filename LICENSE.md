@@ -1,4 +1,4 @@
-
+Enhance Lunacy for macOS with Lunacy for macOS top Script: shortcut customization & export to SVG, the #1 script. Includes shortcut customization and export to SVG for a smoother
 
 
 
